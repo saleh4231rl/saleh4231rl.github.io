@@ -1,0 +1,7 @@
+//getElementById select
+// <select id="ka"></select>
+// let ka = document.getElementById('ka')
+// database di looping ambil kota asal
+// didalam looping lakukan let opt = document.createElement('option');
+// opt.innerHml = kota asal hasil looping
+// ka.appendChild(opt)
