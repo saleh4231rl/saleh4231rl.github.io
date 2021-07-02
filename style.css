@@ -124,6 +124,16 @@
     border-style: none;
 }
 
+.button {
+    cursor: pointer;
+    background: #3f3d56;
+    color: white;
+    margin-top: 10px;
+    padding: 10px 60px;
+    border-radius: 6px;
+    border-style: none;
+}
+
 .submit :hover {
     transform: scale(1.1);
     transition: 0.2s;
